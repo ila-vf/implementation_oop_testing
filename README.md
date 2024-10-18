@@ -1,0 +1,2 @@
+# Implementation OOP Testing
+This file contains unit tests for the Java application, verifying the functionality of the object-oriented design. The tests ensure that all core features such as adding, updating, and deleting books and users function as expected. The tests cover multiple scenarios, including both valid and invalid input cases, to maintain the consistency and integrity of the application.
